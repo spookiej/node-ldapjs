@@ -2,6 +2,7 @@
 
 ## 0.8.0 (Compatibility release)
 
+- #143 Preserve raw Buffer value in Control objects
 - Update dependencies
     * dtrace-provider to 0.6.0
     * bunyan to 1.8.1
